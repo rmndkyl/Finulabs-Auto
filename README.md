@@ -10,7 +10,7 @@
 
 ```
 git clone https://github.com/rmndkyl/Finulabs-Auto.git
-cd finulab
+cd Finulabs-Auto
 pip install requests
 python reff.py
 python auto.py

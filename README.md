@@ -9,7 +9,7 @@
 - https://t.me/AirDropFamilyIDN
 
 ```
-git clone https://github.com/rmndkyl/finulab.git
+git clone https://github.com/rmndkyl/Finulabs-Auto.git
 cd finulab
 pip install requests
 python reff.py
